@@ -1,7 +1,5 @@
 # - 
 
-โหลด dbeaver
-https://dbeaver.io/download/
 
 
 
